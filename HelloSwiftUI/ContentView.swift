@@ -13,7 +13,7 @@ struct ContentView: View
     {
         VStack
         {
-            Image(systemName: "globe")
+            Image(systemName: "star")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
 //                .foregroundColor(.accentColor)    //舊版
